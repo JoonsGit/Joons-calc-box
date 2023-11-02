@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "bin": {
-    "calcbox": "main.js"
+    "calcbox": "./main.js"
   },
   "author": "",
   "license": "ISC",
