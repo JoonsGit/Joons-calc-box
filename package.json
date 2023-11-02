@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "",
   "main": "main.js",
-  "dependencies": {
-    "json": "^11.0.0"
-  },
   "scripts": {
     "test": "jest"
   },
